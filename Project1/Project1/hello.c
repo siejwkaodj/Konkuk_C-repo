@@ -1,9 +1,9 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main(void) {
 	int a;
 	double b;
-	printf("½Ç¼ö ÀÔ·Â : ");
+	printf("ì‹¤ìˆ˜ ìž…ë ¥ : ");
 	scanf("%lf", &b);
 	printf("b = %.2lf", b);
 	return 0;
